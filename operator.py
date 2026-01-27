@@ -11,7 +11,7 @@ print("99%100", 99%100)
 # 99
 
 
-# integer result for division requires two backslackes
+# integer result for division requires two backslashes
 print("8/2 =", 8//2)
 
 # to the power of is **
