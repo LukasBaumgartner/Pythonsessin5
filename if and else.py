@@ -8,3 +8,6 @@ if not number % 2 ==1:
     print("number", number, "is even")
 else:
     print("number", number, "is odd")
+    print("This only shows for odd numbers")
+
+print("This shows always: thanks for playing")
