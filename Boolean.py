@@ -17,3 +17,8 @@ print(None or False or 0 or 0.0)
 # First true value in or is result, if none are true, then its the last value,
 # for and functions if all match it is the last value
 
+print("not 7 is", not 7)
+# not 7 is False
+
+print("not False is", not False)
+
