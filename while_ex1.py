@@ -13,3 +13,12 @@ while True:
     number = number +1
     if number > 100:
         break
+
+# You can even do for nymber of time repeated
+number = 1
+counter = 0
+while true:
+    print(number)
+    counter = counter + 1
+    if counter == 5:
+        break
