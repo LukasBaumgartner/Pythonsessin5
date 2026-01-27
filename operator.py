@@ -22,3 +22,4 @@ print(abs(-1))
 
 # To print as an integer.
 print(int("123"))
+# 123 as values

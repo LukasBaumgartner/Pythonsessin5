@@ -21,4 +21,4 @@ print("not 7 is", not 7)
 # not 7 is False
 
 print("not False is", not False)
-
+#  Not false is true
