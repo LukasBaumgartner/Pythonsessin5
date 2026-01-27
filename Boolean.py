@@ -14,4 +14,6 @@ print(None or False or 11 or 12 or 0)
 
 print(None or False or 0 or 0.0)
 # 0.0 is last value checked, thus it is the one outputted eventhough it is all false
+# First true value in or is result, if none are true, then its the last value,
+# for and functions if all match it is the last value
 
