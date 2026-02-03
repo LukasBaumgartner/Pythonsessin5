@@ -36,3 +36,4 @@ for i in range(1,11):
         for l in range(k,20):
             print(f"{k} * {l} = {k*l}")
             print()
+
